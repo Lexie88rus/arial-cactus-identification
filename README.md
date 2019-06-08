@@ -12,6 +12,8 @@ The goal of the [Aerial Cactus Identification competition](https://www.kaggle.co
 * We are given 17500 (81.4%) images in train dataset and 4000 (18.6%) images in test dataset.
 * The number of images with cactus in train dataset is 13136 (75.1%). The number of images without cactus in train dataset is 4364 (24.9%).
 * Examples of images from the dataset:
+![with cactus](https://github.com/Lexie88rus/arial-cactus-identification/blob/master/assets/with_cactus.png)
+![without cactus](https://github.com/Lexie88rus/arial-cactus-identification/blob/master/assets/without_cactus.png)
 
 ## Approach
 I used transfer learning and pretrained VGG-16 network to classify the images.
